@@ -13,7 +13,8 @@ h1 {
 div#container {
   background-color: #E6E6FA;
   position: relative;
-  margin:20px;
+  margin-top:20px;
+  margin-bottom: 20px;
   width: 90%;
   height: 90%;
   border: 1px solid black;
